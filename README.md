@@ -3,7 +3,7 @@ Opencart payment plugin for SpicePay.com
 
 Installation:
 
-1. Upload spicepay_opencart1.zip to your server. Upnzip.
+1. Upload spicepay_opencart1.zip to your server. Unzip.
 2. Copy contents of "admin" and "catalog" folders to "admin" and "catalog" folders of your opencart installation.
 3. Go to Admin -> Extensions -> Payments.
 4. Find SpicePay in the list. Click "Install".
